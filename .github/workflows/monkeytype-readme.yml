@@ -1,0 +1,15 @@
+name: MonkeyType Readme
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ridemountainpig/monkeytype-readme@master
+        with:
+          monkeytype_username: anshul_01
+          github_username: anshulchauhan-01
+          github_repository: anshulchauhan-01
+          monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
