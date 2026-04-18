@@ -9,7 +9,5 @@ jobs:
     steps:
       - uses: ridemountainpig/monkeytype-readme@master
         with:
-          monkeytype_username: anshul_01
-          github_username: anshulchauhan-01
-          github_repository: anshulchauhan-01
-          monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
+          username: anshul_01
+          github_token: ${{secrets.GITHUB_TOKEN}}
