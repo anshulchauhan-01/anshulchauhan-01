@@ -10,4 +10,5 @@ jobs:
       - uses: ridemountainpig/monkeytype-readme@master
         with:
           username: anshul_01
-          github_token: ${{secrets.GITHUB_TOKEN}}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
