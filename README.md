@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <!--[![Monkeytype Stats](https://monkeytype-stats.vercel.app/api?username=anshul_01&theme=hedge&mode=time&length=15&transparent=false)](https://monkeytype.com/profile/anshul_01)-->
 
 ### Time Stats
-![15s](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=time&length=15)
-![30s](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=time&length=30)
-![60s](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=time&length=60)
+[![15s](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=time&length=15)](https://monkeytype.com/profile/anshul_01)
+[![30s](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=time&length=30)](https://monkeytype.com/profile/anshul_01)
+[![60s](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=time&length=60)](https://monkeytype.com/profile/anshul_01)
 
 ### Word Stats
-![10 words](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=words&length=10)
-![50 words](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=words&length=50)
-![100 words](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=words&length=100)
+[![10 words](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=words&length=10)](https://monkeytype.com/profile/anshul_01)
+[![50 words](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=words&length=50)](https://monkeytype.com/profile/anshul_01)
+[![100 words](https://monkeytype-stats.vercel.app/api?username=anshul_01&mode=words&length=100)](https://monkeytype.com/profile/anshul_01)
